@@ -1,0 +1,32 @@
+_cell_measurement_temperature         100(2)
+
+_diffrn_detector 		    	'hybrid pixel array detector'
+_diffrn_detector_area_resol_mean 	10
+_diffrn_detector_dtime 	    	0.000
+_diffrn_detector_type 	 	'Rigaku, HyPix 6000HE'
+
+_diffrn_measurement_device            	'four-circle diffractometer'
+_diffrn_measurement_device_details    	'Rigaku, UG2 \k goniometer'
+_diffrn_measurement_device_type
+;
+Rigaku FRE+ diffractometer with Arc)Sec VHF Varimax confocal mirrors, a UG2 goniometer and HyPix 6000HE detector
+;
+_diffrn_measurement_method            	'profile data from \w-scans'
+_diffrn_measurement_specimen_support  	'MiTeGen MicroLoop'
+
+_diffrn_radiation_collimation         	0.2
+_diffrn_radiation_monochromator       	'Confocal mirrors, Arc)Sec VHF Varimax'
+_diffrn_radiation_probe               	x-ray
+_diffrn_radiation_type                	'Mo K\a'
+_diffrn_radiation_xray_symbol         	K-L~3~
+_diffrn_radiation_wavelength          	0.71075
+
+_diffrn_source                        	'Rotating Anode'
+_diffrn_source_power                  	2.475
+_diffrn_source_voltage                	45.0
+_diffrn_source_current                	55.0
+_diffrn_source_target                 	Mo
+_diffrn_source_type                   	'Rigaku FRE+'
+
+_diffrn_ambient_temperature           100(2)
+
